@@ -3,5 +3,6 @@ public class Class2 {
         System.out.println("hello java");
         System.out.println("hello java");
         System.out.println("NEW BRANCH");
+        System.out.println("NEW BRANCH2");
     }
 }
